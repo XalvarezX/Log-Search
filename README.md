@@ -1,7 +1,10 @@
 # Log-Search
 Bash script to search log files for ip addresses intended to work with wireshark JSON exports.
+
 1. Clone this repo to your machine.
-2.Make sure you are using a bash shell
+   
+2.Make sure you are using a bash shell.
+
 3 After exporting your scan file from wireshark...
 
 USAGE
